@@ -25,10 +25,28 @@ const f1oxyz = {
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1F91F7?style=flat-square\&logo=typescript\&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-1F91F7?style=flat-square\&logo=angular\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-1F91F7?style=flat-square\&logo=supabase\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F91F7?style=flat-square\&logo=postgresql\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1F91F7?style=flat-square\&logo=figma\&logoColor=white)
+### Connect with me
+
+<a href="https://github.com/F1oxyz" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="38" height="38"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/F1oxyz" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="38" height="38"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/F1oxyz" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="38" height="38"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=ts,js,angular,react,nodejs,html,css,figma,flutter,supabase,postgres,git,github,vercel" />
 
 </div>
